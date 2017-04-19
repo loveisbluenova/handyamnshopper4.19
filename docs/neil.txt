@@ -1,0 +1,30 @@
+FTP Details:
+FTP Username: handymanshopper@handymanshopper.com
+FTP Password: e2kL7VcPptbI
+FTP server: ftp.sorathia.net
+FTP & explicit FTPS port: 21
+
+
+MySQL Database Details:
+MySQL Host: sorathia.net
+Username: sorathia_handy
+Password: U7KzuiNIHkIhUQnaqm
+Port: 31699
+Database: sorathia_handymanshopperp
+
+Username- purvi
+Password- admin123
+
+Site link- http://www.sorathia.net/handymanshopper/
+Admin link- at http://www.sorathia.net/handymanshopper/nct-admin
+
+Admin creds-
+Username- admin
+Password- admin123
+
+
+Sorry handymanshopper.com/not-admin
+
+Admin credentials are
+Username- purvi
+Password- admin123

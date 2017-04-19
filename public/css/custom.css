@@ -1,0 +1,51 @@
+.logo img{
+	width: 50%;
+}
+.navbar.navbar-default.navbar-static-top{
+	
+    background: url(../themes/images/header_bg.png) repeat-x;
+    
+}
+.navbar-header {
+	background: url(../themes/logo2.png) no-repeat;
+	width: 100px;
+	width: 130px;
+    height: 60px;
+    margin-top: 5px;
+}
+.menu {
+    width: 530px;
+    margin: 0 auto;
+    
+}
+.menu ul{
+	margin-bottom: 0px;
+}
+.menu ul li {
+    list-style: none;
+    display: block;
+    float: left;
+    border-right: 1px solid #f2f2f2;
+    border-left: 1px solid #ffffff;
+    line-height: 70px;
+    padding: 0px 20px;
+    font-size: 20px;
+}
+.menu ul li a {
+    cursor: pointer;
+    text-decoration: none;
+}
+.navbar-nav > li > a {
+    line-height: 44px;
+}
+.form-changepicture input[type="file"] {
+    margin-bottom: 0;
+    min-height: 50px;
+    width: 100%;
+}
+.services .features.one {
+    padding: 7px 7px !important;
+}
+form{
+  margin-bottom: 0px !important;
+}

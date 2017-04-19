@@ -1,0 +1,27 @@
+<?php
+
+return [
+
+	'app'			=> 'Laravel',
+	'app2'			=> 'Laravel Auth 2.0',
+	'home'			=> 'Home',
+	'login'			=> 'Login',
+	'logout'		=> 'Logout',
+	'register'		=> 'Register',
+	'signup'		=> 'signup',
+	'resetPword'	=> 'Reset Password',
+	'toggleNav'		=> 'Toggle Navigation',
+	'profile'		=> 'Profile',
+	'editProfile'	=> 'Edit Profile',
+	'createProfile'	=> 'Create Profile',
+
+	'activation'	=> 'Registration Started  | Activation Required',
+	'exceeded'		=> 'Activation Error',
+
+	'editProfile'	=> 'Edit',
+	'createProfile'	=> 'Create Profile',
+	'adminUserList'	=> 'Users Administration',
+	'adminEditUsers'=> 'Edit Users',
+	'adminNewUser'	=> 'Create New User',
+
+];

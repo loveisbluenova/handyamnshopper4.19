@@ -1,0 +1,2 @@
+[12-Apr-2017 14:42:50 UTC] PHP Fatal error:  Class 'Nahid\Talk\Facades\Talk' not found in /home/nsorathia/public_html/handymanshopper/app/Http/Controllers/MessageController.php on line 17
+[12-Apr-2017 10:54:08 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/nsorathia/public_html/handymanshopper/bootstrap/../vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nsorathia/public_html/handymanshopper/bootstrap/autoload.php on line 17
